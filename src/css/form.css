@@ -1,0 +1,11 @@
+form {
+  display: block;
+  margin: 0 auto;
+  width: fit-content;
+}
+
+form > button {
+    display: block;
+    width: fit-content;
+    margin-top: 1rem;
+}
